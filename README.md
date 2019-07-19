@@ -22,7 +22,7 @@ Using paper & pencil, first sketch the profile of a chair. Consider who the chai
 
 Designers often build and test many design prototypes before settling on a final version, as they work through unforeseen problems and limitations that arise.
 
-Here are a few links if you need help or inspiration:
+#### Here are a few links for inspiration:
 
 - [History of Chair Design](http://coshamie.com/history-of-chair-design/)
 
