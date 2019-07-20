@@ -12,7 +12,7 @@ In this tutorial you'll learn how to design a simple chair using Fusion 360. Aft
 
 Using paper & pencil, first sketch the profile of a chair. Consider who the chair is for, what problem it solves, and where it might be used. Think about the seating angle, how it relates to the human body, and how it supports human posture.
 
-![](assets/chair-examples.png)
+![](assets/chair-examples.png) 
 
 **Ergonomics**: Design factors, as for the workplace, intended to maximize productivity by minimizing operator fatigue and discomfort.
 
@@ -26,11 +26,11 @@ Designers often build and test many design prototypes before settling on a final
 
 - [History of Chair Design](http://coshamie.com/history-of-chair-design/)
 - [Reference: Common Dimensions, Angles and Heights for Seating Designers](https://www.core77.com/posts/43422/Reference-Common-Dimensions-Angles-and-Heights-for-Seating-Designers)
-- [Steelcase Global Posture Study](https://www.steelcase.com/products/office-chairs/gesture/#tab-5d31f5e178268-1)
+- [Steelcase Global Posture Study](https://www.steelcase.com/content/uploads/2019/05/global-posture-study.pdf)
 - Chair base archetypes: [5 star task base](http://www.suiteny.com/assets/upload/product_images/original/joint-5-star-base-1359.jpg), [4 point base](https://hivemodern.com/public_resources/full/patch-01-4leg-swivel-base-chair-jacco-bregonje-artifort-4.jpg), [4 leg post](http://www.cultfurniturehire.com/wp-content/uploads/2013/01/StackableNavyChair_Galvanized_angle.jpg), [wire form](https://www.hermanmiller.com/products/seating/side-chairs/eames-wire-chairs/), [cantilever](https://www.designformfurnishings.com/wp-content/uploads/2017/10/Cantilever-Chair.jpg). 
 - Seat archetypes: [single shell](https://a.1stdibscdn.com/archivesE/upload/f_9224/f_3070652/_C8A7666_l.jpg), [seat & back](https://img0.etsystatic.com/000/0/5870588/il_fullxfull.274626840.jpg)
 
-![](assets/ohara-b4f.png)
+![](assets/ohara-bf4.png)
 
 
 
