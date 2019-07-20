@@ -65,7 +65,11 @@ Orbit | Hold Shift + Hold Middle Mouse Button
 
 6. **Sketch > Create Sketch** and click the Origin FRONT plane (highlighted square)
 
+![](assets/images/create-sketch/Large%20GIF%20(480x313).gif)
+
 7. **Sketch > Line (L)** to trace the profile of your chair by connecting points A,B,C, etc. Tip: You can disable grid snapping in the bottom toolbar.
+
+![](assets/images/draw-lines/Large%20GIF%20(480x506).gif)
 
 8. **Browser > Canvases > Lightbulb Icon** (click lightbulb to hide template)
 
