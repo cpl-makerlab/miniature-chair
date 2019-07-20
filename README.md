@@ -47,7 +47,7 @@ Designers often build and test many design prototypes before settling on a final
 
 3. In Fusion 360, click **File > Open > Open from my computer** and select the chair template.
 
-![]
+![](assets/images/file-open/Large%20GIF%20(480x619).gif)
 
 4. Using the Viewcube, click FRONT so the template is easier to see.
 
@@ -58,6 +58,10 @@ Operation | Mouse shortcut
 Pan | Hold Middle Mouse Button 
 Zoom | Roll Middle Mouse Button
 Orbit | Hold Shift + Hold Middle Mouse Button
+
+
+![](assets/images/orbit-pan-zoom/Large%20GIF%20(480x393).gif)
+
 
 6. **Sketch > Create Sketch** and click the Origin FRONT plane (highlighted square)
 
