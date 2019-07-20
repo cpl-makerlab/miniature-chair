@@ -4,9 +4,26 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>Design &amp; Make a Miniature Chair</title>
-<link href="assets/css/style.css" type="text/css" rel="stylesheet">
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" type="text/css" rel="stylesheet">
-<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <!-- Base -->
+    <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+    <link href="assets/css/base/normalize.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="assets/css/base/typography.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/base/states.css" rel="stylesheet" type="text/css" />
+    
+    <!-- Layout -->
+    <link href="assets/css/layout/grid/css/grid12.css" rel="stylesheet" type="text/css" />
+    
+    <!-- Components -->
+    <link href="assets/css/components/buttons.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/components/forms.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/components/images.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/components/lists.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/components/tables.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/components/code.css" rel="stylesheet" type="text/css" />
+    
+    <!-- Theme -->
+    <link href="assets/css/theme/theme.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
@@ -25,74 +42,90 @@
 <p><img src="assets/images/ohara-bf4.png" alt=""></p>
 <h4 id="here-are-a-few-links-for-inspiration-">Here are a few links for inspiration:</h4>
 <ul>
-<li><a href="http://coshamie.com/history-of-chair-design/">History of Chair Design</a></li>
-<li><a href="https://www.core77.com/posts/43422/Reference-Common-Dimensions-Angles-and-Heights-for-Seating-Designers">Reference: Common Dimensions, Angles and Heights for Seating Designers</a></li>
-<li><a href="https://www.steelcase.com/content/uploads/2019/05/global-posture-study.pdf">Steelcase Global Posture Study</a></li>
-<li>Chair base archetypes: <a href="http://www.suiteny.com/assets/upload/product_images/original/joint-5-star-base-1359.jpg">5 star task base</a>, <a href="https://hivemodern.com/public_resources/full/patch-01-4leg-swivel-base-chair-jacco-bregonje-artifort-4.jpg">4 point base</a>, <a href="http://www.cultfurniturehire.com/wp-content/uploads/2013/01/StackableNavyChair_Galvanized_angle.jpg">4 leg post</a>, <a href="https://www.hermanmiller.com/products/seating/side-chairs/eames-wire-chairs/">wire form</a>, <a href="https://www.designformfurnishings.com/wp-content/uploads/2017/10/Cantilever-Chair.jpg">cantilever</a>. </li>
-<li>Seat archetypes: <a href="https://a.1stdibscdn.com/archivesE/upload/f_9224/f_3070652/_C8A7666_l.jpg">single shell</a>, <a href="https://img0.etsystatic.com/000/0/5870588/il_fullxfull.274626840.jpg">seat &amp; back</a></li>
+    <li><a href="http://coshamie.com/history-of-chair-design/">History of Chair Design</a></li>
+    <li><a href="https://www.core77.com/posts/43422/Reference-Common-Dimensions-Angles-and-Heights-for-Seating-Designers">Reference: Common Dimensions, Angles and Heights for Seating Designers</a></li>
+    <li><a href="https://www.steelcase.com/content/uploads/2019/05/global-posture-study.pdf">Steelcase Global Posture Study</a></li>
+    <li>Chair base archetypes: <a href="http://www.suiteny.com/assets/upload/product_images/original/joint-5-star-base-1359.jpg">5 star task base</a>, <a href="https://hivemodern.com/public_resources/full/patch-01-4leg-swivel-base-chair-jacco-bregonje-artifort-4.jpg">4 point base</a>, <a href="http://www.cultfurniturehire.com/wp-content/uploads/2013/01/StackableNavyChair_Galvanized_angle.jpg">4 leg post</a>, <a href="https://www.hermanmiller.com/products/seating/side-chairs/eames-wire-chairs/">wire form</a>, <a href="https://www.designformfurnishings.com/wp-content/uploads/2017/10/Cantilever-Chair.jpg">cantilever</a>. </li>
+    <li>Seat archetypes: <a href="https://a.1stdibscdn.com/archivesE/upload/f_9224/f_3070652/_C8A7666_l.jpg">single shell</a>, <a href="https://img0.etsystatic.com/000/0/5870588/il_fullxfull.274626840.jpg">seat &amp; back</a></li>
 </ul>
 <h2 id="make">MAKE</h2>
 <p><img src="assets/images/make-steps.png" alt=""></p>
 <ol>
-<li><p>Create a <a href="https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html">free Fusion 360 account</a> if you haven&#39;t yet done so.</p>
-</li>
-<li><p>Download <a href="https://github.com/cpl-makerlab/miniature-chair/raw/master/templates/chair-template.f3d">chair-template.f3d</a> to your Desktop.</p>
-</li>
-<li><p>In Fusion 360, click <strong>File &gt; Open &gt; Open from my computer</strong> and select the chair template.</p>
-</li>
-<li><p>Using the Viewcube, click FRONT so the template is easier to see.</p>
-</li>
-<li><p>Pan &amp; Zoom so that the template is a comfortable size. You can use the bottom toolbar or mouse shortcuts.</p>
-</li>
+    <li>
+        <p>Create a <a href="https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html">free Fusion 360 account</a> if you haven&#39;t yet done so.</p>
+    </li>
+    <li>
+        <p>Download <a href="https://github.com/cpl-makerlab/miniature-chair/raw/master/templates/chair-template.f3d">chair-template.f3d</a> to your Desktop.</p>
+    </li>
+    <li>
+        <p>In Fusion 360, click <strong>File &gt; Open &gt; Open from my computer</strong> and select the chair template.</p>
+    </li>
+    <li>
+        <p>Using the Viewcube, click FRONT so the template is easier to see.</p>
+    </li>
+    <li>
+        <p>Pan &amp; Zoom so that the template is a comfortable size. You can use the bottom toolbar or mouse shortcuts.</p>
+    </li>
 </ol>
 <table>
-<thead>
-<tr>
-<th>Operation</th>
-<th>Mouse shortcut</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Pan</td>
-<td>Hold Middle Mouse Button </td>
-</tr>
-<tr>
-<td>Zoom</td>
-<td>Roll Middle Mouse Button</td>
-</tr>
-<tr>
-<td>Orbit</td>
-<td>Hold Shift + Hold Middle Mouse Button</td>
-</tr>
-</tbody>
+    <thead>
+        <tr>
+            <th>Operation</th>
+            <th>Mouse shortcut</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pan</td>
+            <td>Hold Middle Mouse Button </td>
+        </tr>
+        <tr>
+            <td>Zoom</td>
+            <td>Roll Middle Mouse Button</td>
+        </tr>
+        <tr>
+            <td>Orbit</td>
+            <td>Hold Shift + Hold Middle Mouse Button</td>
+        </tr>
+    </tbody>
 </table>
 <ol>
-<li><p><strong>Sketch &gt; Create Sketch</strong> and click the Origin FRONT plane (highlighted square)</p>
-</li>
-<li><p><strong>Sketch &gt; Line (L)</strong> to trace the profile of your chair by connecting points A,B,C, etc. Tip: You can disable grid snapping in the bottom toolbar.</p>
-</li>
-<li><p><strong>Browser &gt; Canvases &gt; Lightbulb Icon</strong> (click lightbulb to hide template)</p>
-</li>
-<li><p>Fusion 360 automatically adds constraints as you draw. These constraints force lines to be equal, parallel, perpendicular, etc. They are represented by tiny little icons places all over your sketch. Try dragging around the points and lines of your chair to see how constraints restrict movement. You can click and delete a constraint or add new ones.</p>
-</li>
-<li><p>Let&#39;s add a new constraint to make sure the chair leg bottoms always line up. <strong>Sketch Palette &gt; Constraints &gt; Colinear</strong>. Click the bottom of the left leg, then the bottom of the right leg. You will see a new constraint icon appear. Now try moving one of the leg bottoms, and the other one will automatically adjust to stay level.</p>
-</li>
-<li><p><strong>Sketch &gt; Sketch Dimension (D)</strong> and click two points or a line to set a dimension. This allows you to set precise dimensions for your sketch, but may cause some weird behavior if your sketch is not constrained well. Max dimensions: 30mm x 30mm x 30mm (~15 min print).</p>
-</li>
-<li><p><strong>Stop Sketch</strong> (top right menu) to exit sketch mode. Click home icon on Viewcube to reset camera.</p>
-</li>
-<li><p><strong>Create &gt; Extrude (E)</strong>. Select your chair profile. Drag arrow for a depth of 20-25mm.</p>
-</li>
-<li><p><strong>Sketch &gt; Create Sketch</strong> on LEFT surface plane (behind the chair). Create a rectangular profile to cut through the bottom of your chair. <strong>Stop Sketch.</strong></p>
-</li>
-<li><p><strong>Create &gt; Extrude</strong> the rectangular profile. Extruding through an existing object will remove it (turns red when cutting).</p>
-</li>
-<li><p>(Optional) <strong>Modify &gt; Fillet</strong> to create rounded edges. <strong>Modify &gt; Chamfer</strong> to bevel corners.</p>
-</li>
-<li><p>All done? <strong>File &gt; 3D Print</strong>. Select Makerbot. In Makerbot Desktop export the file to an SD Card, which will be taken over to the 3D Printer to start printing.
-Print settings: .3mm, 10% infill, 210¡F, 2 shells. Make sure Raft + Support are turned on. </p>
-</li>
+    <li>
+        <p><strong>Sketch &gt; Create Sketch</strong> and click the Origin FRONT plane (highlighted square)</p>
+    </li>
+    <li>
+        <p><strong>Sketch &gt; Line (L)</strong> to trace the profile of your chair by connecting points A,B,C, etc. Tip: You can disable grid snapping in the bottom toolbar.</p>
+    </li>
+    <li>
+        <p><strong>Browser &gt; Canvases &gt; Lightbulb Icon</strong> (click lightbulb to hide template)</p>
+    </li>
+    <li>
+        <p>Fusion 360 automatically adds constraints as you draw. These constraints force lines to be equal, parallel, perpendicular, etc. They are represented by tiny little icons places all over your sketch. Try dragging around the points and lines of your chair to see how constraints restrict movement. You can click and delete a constraint or add new ones.</p>
+    </li>
+    <li>
+        <p>Let&#39;s add a new constraint to make sure the chair leg bottoms always line up. <strong>Sketch Palette &gt; Constraints &gt; Colinear</strong>. Click the bottom of the left leg, then the bottom of the right leg. You will see a new constraint icon appear. Now try moving one of the leg bottoms, and the other one will automatically adjust to stay level.</p>
+    </li>
+    <li>
+        <p><strong>Sketch &gt; Sketch Dimension (D)</strong> and click two points or a line to set a dimension. This allows you to set precise dimensions for your sketch, but may cause some weird behavior if your sketch is not constrained well. Max dimensions: 30mm x 30mm x 30mm (~15 min print).</p>
+    </li>
+    <li>
+        <p><strong>Stop Sketch</strong> (top right menu) to exit sketch mode. Click home icon on Viewcube to reset camera.</p>
+    </li>
+    <li>
+        <p><strong>Create &gt; Extrude (E)</strong>. Select your chair profile. Drag arrow for a depth of 20-25mm.</p>
+    </li>
+    <li>
+        <p><strong>Sketch &gt; Create Sketch</strong> on LEFT surface plane (behind the chair). Create a rectangular profile to cut through the bottom of your chair. <strong>Stop Sketch.</strong></p>
+    </li>
+    <li>
+        <p><strong>Create &gt; Extrude</strong> the rectangular profile. Extruding through an existing object will remove it (turns red when cutting).</p>
+    </li>
+    <li>
+        <p>(Optional) <strong>Modify &gt; Fillet</strong> to create rounded edges. <strong>Modify &gt; Chamfer</strong> to bevel corners.</p>
+    </li>
+    <li>
+        <p>All done? <strong>File &gt; 3D Print</strong>. Select Makerbot. In Makerbot Desktop export the file to an SD Card, which will be taken over to the 3D Printer to start printing. Print settings: .3mm, 10% infill, 210¡F, 2 shells. Make sure Raft + Support are turned on. </p>
+    </li>
 </ol>
 
 </body>
