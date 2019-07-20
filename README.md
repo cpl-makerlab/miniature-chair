@@ -62,7 +62,6 @@ Orbit | Hold Shift + Hold Middle Mouse Button
 
 ![](assets/images/orbit-pan-zoom/Large%20GIF%20(480x393).gif)
 
-
 6. **Sketch > Create Sketch** and click the Origin FRONT plane (highlighted square)
 
 ![](assets/images/create-sketch/Large%20GIF%20(480x313).gif)
@@ -77,22 +76,40 @@ Orbit | Hold Shift + Hold Middle Mouse Button
 
 9. Fusion 360 automatically adds constraints as you draw. These constraints force lines to be equal, parallel, perpendicular, etc. They are represented by tiny little icons places all over your sketch. Try dragging around the points and lines of your chair to see how constraints restrict movement. You can click and delete a constraint or add new ones.
 
+![](assets/images/play-constraints.gif)
+
 10. Let's add a new constraint to make sure the chair leg bottoms always line up. **Sketch Palette > Constraints > Colinear**. Click the bottom of the left leg, then the bottom of the right leg. You will see a new constraint icon appear. Now try moving one of the leg bottoms, and the other one will automatically adjust to stay level.
+
+![](assets/images/new-constraint.gif)
 
 11. **Sketch > Sketch Dimension (D)** and click two points or a line to set a dimension. This allows you to set precise dimensions for your sketch, but may cause some weird behavior if your sketch is not constrained well. Max dimensions: 30mm x 30mm x 30mm (~15 min print).
 
+![](assets/images/dimension.gif)
+
 12. **Stop Sketch** (top right menu) to exit sketch mode. Click home icon on Viewcube to reset camera.
+
+![](assets/images/stop-sketch.gif)
 
 13. **Create > Extrude (E)**. Select your chair profile. Drag arrow for a depth of 20-25mm.
 
+![](assets/images/extrude1.gif)
+
 14. **Sketch > Create Sketch** on LEFT surface plane (behind the chair). Create a rectangular profile to cut through the bottom of your chair. **Stop Sketch.**
+
+![](assets/images/rectangle-profile.gif)
 
 15. **Create > Extrude** the rectangular profile. Extruding through an existing object will remove it (turns red when cutting).
 
+![](assets/images/extrude2.gif)
+
 16. (Optional) **Modify > Fillet** to create rounded edges. **Modify > Chamfer** to bevel corners.
+
+![](assets/images/fillet.gif)
 
 17. All done? **File > 3D Print**. Select Makerbot. In Makerbot Desktop export the file to an SD Card, which will be taken over to the 3D Printer to start printing.
 Print settings: .3mm, 10% infill, 210¡F, 2 shells. Make sure Raft + Support are turned on. 
+
+![](assets/images/export.gif)
 
 
 
