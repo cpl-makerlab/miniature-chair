@@ -53,12 +53,11 @@ Pan | Hold Middle Mouse Button
 Zoom | Roll Middle Mouse Button
 Orbit | Hold Shift + Hold Middle Mouse Button
 
-
 6. **Sketch > Create Sketch** and click the Origin FRONT plane (highlighted square)
 
 7. **Sketch > Line (L)** to trace the profile of your chair by connecting points A,B,C, etc. Tip: You can disable grid snapping in the bottom toolbar.
 
-8. **Browser > Canvases > Lightbulb Icon (click lightbulb to hide template)
+8. **Browser > Canvases > Lightbulb Icon** (click lightbulb to hide template)
 
 9. Fusion 360 automatically adds constraints as you draw. These constraints force lines to be equal, parallel, perpendicular, etc. They are represented by tiny little icons places all over your sketch. Try dragging around the points and lines of your chair to see how constraints restrict movement. You can click and delete a constraint or add new ones.
 
