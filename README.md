@@ -73,6 +73,8 @@ Orbit | Hold Shift + Hold Middle Mouse Button
 
 8. **Browser > Canvases > Lightbulb Icon** (click lightbulb to hide template)
 
+![](assets/images/hide-canvas/Large%20GIF%20(320x294).gif)
+
 9. Fusion 360 automatically adds constraints as you draw. These constraints force lines to be equal, parallel, perpendicular, etc. They are represented by tiny little icons places all over your sketch. Try dragging around the points and lines of your chair to see how constraints restrict movement. You can click and delete a constraint or add new ones.
 
 10. Let's add a new constraint to make sure the chair leg bottoms always line up. **Sketch Palette > Constraints > Colinear**. Click the bottom of the left leg, then the bottom of the right leg. You will see a new constraint icon appear. Now try moving one of the leg bottoms, and the other one will automatically adjust to stay level.
