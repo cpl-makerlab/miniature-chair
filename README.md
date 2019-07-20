@@ -39,7 +39,7 @@ Designers often build and test many design prototypes before settling on a final
 
 1. Create a [free Fusion 360 account](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html) if you haven't yet done so.
 
-2. Download [chair-template.f3d](templates/chair-template.f3d) to your Desktop.
+2. Download [chair-template.f3d](https://github.com/cpl-makerlab/miniature-chair/raw/master/templates/chair-template.f3d) to your Desktop.
 
 3. In Fusion 360, click File > Open > Open from my computer and select the chair template.
 
