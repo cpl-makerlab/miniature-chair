@@ -1,7 +1,8 @@
 # Design & Make a Miniature Chair
-Design á Fusion 360 á 3D Printing
+Design Â· Fusion 360 Â· 3D Printing
 
 CPL Makerlab: https://sites.google.com/site/cplmakerlab/digital-toolbox
+
 Survey: https://www.surveymonkey.com/r/Y6H3B8Z
 
 ![](assets/images/chair-header.png)
@@ -107,7 +108,7 @@ Orbit | Hold Shift + Hold Middle Mouse Button
 ![](assets/images/fillet.gif)
 
 17. All done? **File > 3D Print**. Select Makerbot. In Makerbot Desktop export the file to an SD Card, which will be taken over to the 3D Printer to start printing.
-Print settings: .3mm, 10% infill, 210¡F, 2 shells. Make sure Raft + Support are turned on. 
+Print settings: .3mm, 10% infill, 210Â°F, 2 shells. Make sure Raft + Support are turned on. 
 
 ![](assets/images/export.gif)
 
