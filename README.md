@@ -47,11 +47,12 @@ Designers often build and test many design prototypes before settling on a final
 
 5. Pan & Zoom so that the template is a comfortable size. You can use the bottom toolbar or mouse shortcuts.
 
-Op | Mouse shortcuts
+ | Mouse shortcut
 --- | ---
 Pan | Hold Middle Mouse Button 
 Zoom | Roll Middle Mouse Button
 Orbit | Hold Shift + Hold Middle Mouse Button
+
 
 6. **Sketch > Create Sketch** and click the Origin FRONT plane (highlighted square)
 
