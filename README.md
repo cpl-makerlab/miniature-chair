@@ -47,7 +47,7 @@ Designers often build and test many design prototypes before settling on a final
 
 5. Pan & Zoom so that the template is a comfortable size. You can use the bottom toolbar or mouse shortcuts.
 
- | Mouse shortcuts
+Op | Mouse shortcuts
 --- | ---
 Pan | Hold Middle Mouse Button 
 Zoom | Roll Middle Mouse Button
