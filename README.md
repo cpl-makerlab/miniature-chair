@@ -32,6 +32,7 @@ Designers often build and test many design prototypes before settling on a final
 #### Here are a few links for inspiration:
 
 - [History of Chair Design](http://coshamie.com/history-of-chair-design/)
+- [Rethinking Chair Comfort](https://www.core77.com/posts/90066/Rethinking-Chair-Comfort)
 - [Reference: Common Dimensions, Angles and Heights for Seating Designers](https://www.core77.com/posts/43422/Reference-Common-Dimensions-Angles-and-Heights-for-Seating-Designers)
 - [Steelcase Global Posture Study](https://www.steelcase.com/content/uploads/2019/05/global-posture-study.pdf)
 - Chair base archetypes: [5 star task base](http://www.suiteny.com/assets/upload/product_images/original/joint-5-star-base-1359.jpg), [4 point base](https://hivemodern.com/public_resources/full/patch-01-4leg-swivel-base-chair-jacco-bregonje-artifort-4.jpg), [4 leg post](http://www.cultfurniturehire.com/wp-content/uploads/2013/01/StackableNavyChair_Galvanized_angle.jpg), [wire form](https://www.hermanmiller.com/products/seating/side-chairs/eames-wire-chairs/), [cantilever](https://www.designformfurnishings.com/wp-content/uploads/2017/10/Cantilever-Chair.jpg). 
